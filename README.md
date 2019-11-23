@@ -12,6 +12,6 @@ A custom component for editing GeometryCollection in a GeoJSON
 
 ## Needs fixing
 - Internationalization.
-- Value validation (it's currently possible to inject an invalid value via the `value` prop.
+- Value validation (it's currently possible to inject an invalid value via the `value` prop).
 - Overall UX.
 - Better testing methodologies.
